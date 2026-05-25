@@ -3,6 +3,7 @@
 # 🪄 Magical News Fact-Checker
 
 An enterprise-grade, multilingual AI-powered fact-checking application leveraging an **Agentic RAG** pipeline built atop the advanced **AvalAI Responses API**. This tool autonomously performs live web verification, evaluates incoming text claims, delivers structural JSON reasoning reports, and displays them via an elegant, single-page dashboard.
+<img width="1849" height="838" alt="image" src="https://github.com/user-attachments/assets/d8cb218a-a1af-47a0-942b-ad0f8c1e9ecf" />
 
 ---
 
@@ -46,7 +47,7 @@ Follow these programmatic setup steps to establish the environment and run the a
 
 ### 1. Clone the Workspace Repository
 ```bash
-git clone [https://github.com/your-username/magical-news-factchecker.git](https://github.com/your-username/magical-news-factchecker.git)
+git clone [https://github.com/Shahab-Esfandiar/Turing-Session04-Project.git](https://github.com/Shahab-Esfandiar/Turing-Session04-Project.git)
 cd magical-news-factchecker
 ```
 
