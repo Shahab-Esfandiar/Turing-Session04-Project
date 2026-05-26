@@ -1,5 +1,3 @@
-#  Turing-Session04-Project
-
 # 🪄 Magical News Fact-Checker
 
 An enterprise-grade, multilingual AI-powered fact-checking application leveraging an **Agentic RAG** pipeline built atop the advanced **AvalAI Responses API**. This tool autonomously performs live web verification, evaluates incoming text claims, delivers structural JSON reasoning reports, and displays them via an elegant, single-page dashboard.
