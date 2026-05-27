@@ -1,6 +1,6 @@
 # 🪄 Magical News Fact-Checker
 
-An enterprise-grade, multilingual AI-powered fact-checking application leveraging an **Agentic RAG** pipeline built atop the advanced **AvalAI Responses API**. This tool autonomously performs live web verification, evaluates incoming text claims, delivers structural JSON reasoning reports, and displays them via an elegant, single-page dashboard.
+A multilingual AI-powered fact-checking application leveraging an **Agentic RAG** pipeline built atop the advanced **AvalAI Responses API**. This tool autonomously performs live web verification, evaluates incoming text claims, delivers structural JSON reasoning reports, and displays them via an elegant, single-page dashboard.
 <img width="1849" height="838" alt="image" src="https://github.com/user-attachments/assets/d8cb218a-a1af-47a0-942b-ad0f8c1e9ecf" />
 
 ---
